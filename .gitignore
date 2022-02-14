@@ -1,0 +1,10 @@
+*.csv
+*.xls
+*.xlsx
+*.feather
+.spyproject
+.spyproject/
+spyproject/
+spyproject
+download_curl/
+download_curl
