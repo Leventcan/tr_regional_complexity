@@ -1,7 +1,9 @@
 """
-Created on Thu Feb  6 09:29:53 2014
+
 
 @author: eguney
+         lgultekin
+
 """
 #%% Economic Complexity Ana Tablonun elde edilmesi
 
@@ -91,11 +93,11 @@ prox_province = proximity(data, trade_cols)
 
 
 
-İl Verisi için RCA değerlerinin olduğu dataframe
+#İl Verisi için RCA değerlerinin olduğu dataframe
 cdata[["location_code", "sitc_code", "mcp"]]
 
 
-#TODO: Density değerini hesaplayacak bir fonksiyon yaz
+#TODO: Density değerini hesaplayacak bir fonksiyon yazılacakk
 
 
 
